@@ -1,6 +1,6 @@
 # Hello World, I'm Yannic
 
- I'm a business informatics student and sport lover :)
+I'm a business informatics student and sport lover :)
 
 - 🌱 I like to travel and am cosmopolitan person
 - 🥅 i love to do any kind of sport
