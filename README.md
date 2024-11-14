@@ -3,7 +3,7 @@
 I'm a business informatics student and sport lover :)
 
 - 🌱 I like to travel and am cosmopolitan person
-- 🥅 i love to do any kind of sport
+- 🥅 I love to do any kind of sport
 - ⚡ Fun fact: I love sharing and receiving memes
 <img src="/itsAllFine.png" width=250>
  
